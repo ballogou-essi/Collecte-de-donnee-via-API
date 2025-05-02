@@ -11,3 +11,5 @@ Imagine un chercheur qui doit parcourir des milliers d'annonces manuellement. C'
   - Il gère la "qualité" des données de base : Des fonctions comme find_commune_code aident à s'assurer qu'on utilise des informations de localisation correctes, ce qui est important pour une analyse géographique. nettoyer_description prépare le texte pour une éventuelle analyse de contenu.
 
 *Ce programme en Python fonctionne comme une boîte à outils qui sait comment parler au site de France Travail pour trouver des offres d'emploi. Cette boîte à outils s'occupe de se connecter correctement, de chercher les villes même si on fait des fautes, et de nous donner les offres d'une manière facile à comprendre.*
+
+**ballogouessicarole@gmail.com**
